@@ -1,5 +1,5 @@
 # Anomaly Detection on Streamed Data - Code for Numerical Experiments
-This code implements the numerical experiments described in the paper manuscript "Anomaly Detection on Streamed Data".
+This code implements the numerical experiments described in the arXiv paper manuscript "Anomaly Detection on Streamed Data" [https://arxiv.org/abs/2006.03487v1](https://arxiv.org/abs/2006.03487v1).
 
 Experiments are implemented in Python as a set of Jupyter notebooks, with each notebook corresponding to a section in the paper and responsible for generating the experimental results reported in that section.
 
