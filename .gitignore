@@ -1,3 +1,4 @@
+*.pyc
 /ship_movement_anomalies/AIS_2017_01_Zone17.csv
 /ship_movement_anomalies/AIS_2017_01_Zone17_substreams_16000.pkl
 /ship_movement_anomalies/AIS_2017_01_Zone17_substreams_32000.pkl
